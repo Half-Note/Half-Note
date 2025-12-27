@@ -1,0 +1,24 @@
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Half-Note" alt="Half-Note" /></p>
+
+<h1 align="justify">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Conheça mais sobre Fahad!</h1>
+<p align="justify">Graduado em Engenharia Civil, atualmente cursando Mestrado em Gerenciamento de Construção. Apaixonado por tecnologia, robótica e automação.</p>
+
+No momento estou aprendendo **Python, C++ e ROS 2**.
+
+[![Instagram Badge](https://img.shields.io/badge/-fahadiqbal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fahadiqbal)](https://instagram.com/fahadiqbal)
+[![Gmail Badge](https://img.shields.io/badge/-fahadiqbal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahadiqbal@gmail.com)](mailto:fahadiqbal@gmail.com)
+
+## 🚀💻 Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+## ⚡ GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
