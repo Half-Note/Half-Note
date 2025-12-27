@@ -1,9 +1,9 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Half-Note" alt="Half-Note" /></p>
 
-<h1 align="justify">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Conheça mais sobre Fahad!</h1>
-<p align="justify">Graduado em Engenharia Civil, atualmente cursando Mestrado em Gerenciamento de Construção. Apaixonado por tecnologia, robótica e automação.</p>
+<h1 align="justify">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Welcome to Fahad's GitHub!</h1>
+<p align="justify">Civil Engineering graduate, currently pursuing a Master's in Construction Management. Passionate about technology, robotics, and automation.</p>
 
-No momento estou aprendendo **Python, C++ e ROS 2**.
+Currently learning **Python, C++, and ROS 2**.
 
 [![Instagram Badge](https://img.shields.io/badge/-fahadiqbal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fahadiqbal)](https://instagram.com/fahadiqbal)
 [![Gmail Badge](https://img.shields.io/badge/-fahadiqbal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahadiqbal@gmail.com)](mailto:fahadiqbal@gmail.com)
