@@ -13,12 +13,6 @@ Currently learning **Python, C++, and ROS 2**.
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-
-## ⚡ GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal&show_icons=true&theme=omni&include_all_commits=true&count_private=true)
