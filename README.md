@@ -5,9 +5,6 @@
 
 Currently learning **Python, C++, and ROS 2**.
 
-[![Instagram Badge](https://img.shields.io/badge/-fahadiqbal-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/fahadiqbal)](https://instagram.com/fahadiqbal)
-[![Gmail Badge](https://img.shields.io/badge/-fahadiqbal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fahadiqbal@gmail.com)](mailto:fahadiqbal@gmail.com)
-
 ## 🚀💻 Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
