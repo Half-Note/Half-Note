@@ -1,7 +1,11 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Half-Note" alt="Half-Note" /></p>
 
 <h1 align="justify">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Salaaam, Welcome!</h1>
-<p align="justify">Civil Engineering graduate, currently pursuing a Master's in Construction Management. Passionate about technology, robotics, and automation.</p>
+
+<p align="justify">
+Civil Engineering graduate, currently pursuing a Master's in Construction Management. Passionate about technology, robotics, and automation.  
+🌐 Visit my website: <a href="https://i-fahad.com" target="_blank">i-fahad.com</a>
+</p>
 
 ## 🚀💻 Technologies & Tools
 
