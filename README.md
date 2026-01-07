@@ -3,8 +3,7 @@
 <h1 align="justify">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Salaaam, Welcome!</h1>
 
 <p align="justify">
-Civil Engineering graduate, currently pursuing a Master's in Construction Management. Passionate about technology, robotics, and automation.  
-🌐 Visit my website: <a href="https://i-fahad.com" target="_blank">i-fahad.com</a>
+Civil Engineering graduate, currently pursuing a Master's in Construction Management. Passionate about technology, robotics, and automation.
 </p>
 
 ## 🚀💻 Technologies & Tools
@@ -15,3 +14,7 @@ Civil Engineering graduate, currently pursuing a Master's in Construction Manage
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+🌐 **Website:** [i-fahad.com](https://i-fahad.com)
